@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 #define MAXSIZE 25
-// The variable 'i' always means the y coordinate, 'j' always means x coordiante
+// The variable 'i' always means the y coordinate, 'j' always means x coordiante.
 //FIXTHIS: Make it so the white space clears all other white space touching it
 void layMines(int x, int y, int prob, int board[MAXSIZE][MAXSIZE]) {
 	int randnum;
