@@ -1,2 +1,2 @@
 # MineSweeper
-MineSweeper program in C last fall.
+MineSweeper program in C done in fall of 2017.
